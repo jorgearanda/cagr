@@ -4,9 +4,10 @@ Reference:
 http://www.investopedia.com/terms/c/cagr.asp
 
 
-Usage: cagr.py [-h] --initial <initial> --final <final> --years <years>
+Usage: cagr.py [-h] --initial <initial> --final <final> [--years <years> | --months <months>]
 
 -h --help    Show this
 -i <initial>, --initial <initial>  Initial value
 -f <final>, --final <final>        Final value
 -y <years>, --years <years>        Years
+-m <months>, --months <months>     Months
