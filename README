@@ -1,0 +1,12 @@
+A simple script to calculate Compound Annual Growth Rate (CAGR)
+
+Reference:
+http://www.investopedia.com/terms/c/cagr.asp
+
+
+Usage: cagr.py [-h] --initial <initial> --final <final> --years <years>
+
+-h --help    Show this
+-i <initial>, --initial <initial>  Initial value
+-f <final>, --final <final>        Final value
+-y <years>, --years <years>        Years
